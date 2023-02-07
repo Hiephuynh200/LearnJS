@@ -1,0 +1,33 @@
+/*
+Hàm <function> trong javascript
+
+1. Hàm
+    - một khối mã
+    - làm 1 việc cụ thể
+2. Loại Hàm
+    - Built in
+    - tự định nghĩa
+3. Tính chất
+    - không thực thi khi định nghĩa
+    - sẽ thực thi khi được gọi
+    - có thể nhận tham số
+    - có thể trả về 1 giá trị
+*/
+
+a-z A-Z 0-9
+
+
+//Tham số hàm - JavaScript cơ bản
+
+1. tham số? 
+    - Định nghĩa
+    - Kiểu dữ liệu
+    - tính private
+    - 1 tham số
+    - nhiều tham số
+2. truyền tham số
+    - 1 tham số
+    - nhiều tham số
+3. argument?
+    - đổi tượng argument
+    - giới thiệu vòng for
