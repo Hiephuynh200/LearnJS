@@ -46,19 +46,21 @@ WriteCar('car1', 'car2', 'car3');
 */
 
 //return trong hàm 
-// var isConfirm = confirm('message?');
-// console.log(isConfirm);
+/*
+var isConfirm = confirm('message?');
+console.log(isConfirm);
 
-// function cong(a,b) {
-//     return a + b;
-// }
-// var result = cong(1,2);
+function cong(a,b) {
+    return a + b;
+}
+var result = cong(1,2);
+console.log(result);
 
-// console.log(result);
 
 function cong(a,b) {
     return "2" + "2";
 }
 var result = cong(1,2);
-
 console.log(result);
+
+*/
