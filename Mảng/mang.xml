@@ -1,0 +1,20 @@
+Mảng trong JAVASCRIPT
+
+1. Tạo mảng
+    - Cách tạo
+    - Sử dụng cách nào? Tại sao?
+    - Kiểm tra DataType
+2. Truy xuất Mảng
+    - Độ dài mảng
+    - Lấy phần tử theo index
+
+Làm việc với mảng
+1. To string
+2. join
+3. Pop
+4. Push
+5. Shift
+6. Unshift
+7. Splicing
+8. Concat
+9. Slicing
