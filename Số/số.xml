@@ -1,0 +1,16 @@
+Số và làm việc với số
+
+1. Tạo giá trị Number
+    - Các cách tạo
+    - Dùng cách nào? Tại sao?
+    - Kiểm tra DataType
+
+2. Làm việc với Number
+    - To string
+    - To fixed
+
+bài tập
+Tạo hàm isNumber, 
+hàm này dùng với mục đích kiểm tra xem một giá trị có phải là 1 số hay không
+Hàm isNumber có 1 tham số, hãy đặt tên nó là value
+Khi value có kiểu số, hàm sẽ trả về true, ngược lại trả về false
