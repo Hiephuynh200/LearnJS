@@ -1,2 +1,8 @@
 // cau lenh re nhanh if else
 // lenh re nhanh Switch
+
+//khi nào dùng if else và switch
+so sánh tính đúng sai thì nên dùng if else
+được cho trước những giá trị có sẵn thì dùng switch --> từ 3 case trở lên nên dùng switch case
+
+//toán tử 3 ngôi
