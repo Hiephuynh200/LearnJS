@@ -32,6 +32,11 @@ var languages = [
     // function() {},
     // {}
 ];
+
+var languages2 = [
+    'c#',
+    'c++'
+]
 console.log(languages.length); 
 console.log(languages[122]); 
 console.log(Array.isArray(languages)) // kiểm tra có phải là array hay không
@@ -58,4 +63,12 @@ console.log(languages.unshift('Dart', 'java')); // thêm element vào đầu m�
 console.log(languages);
 
 //7. splice
-console.log(languages.splice(1, 0)); //  
+console.log(languages.splice(1, 3)); //  xoá đi vị trí bất kì
+languages.splice(1, 2, "c#"); 
+console.log(languages); //chen
+
+//8. Concat
+console.log(languages.concat(languages2)); // nối mảng
+
+//9 slice
+console.log(languages.slice(1, 3));
